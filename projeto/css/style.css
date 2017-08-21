@@ -1,0 +1,19 @@
+header {
+	width: 100%;
+	height: 150px;
+	background-image: url(https://i1.wp.com/www.wallpapersbyte.com/wp-content/uploads/2015/07/Binary-Numbers-0-1-Code-Matrix-Blue-Hack-Pattern-Abstract-WallpapersByte-com-1366x768.jpg);
+}
+header .container {
+	position: relative;
+}
+header .header-black {
+	background-image: url(https://i1.wp.com/www.wallpapersbyte.com/wp-content/uploads/2015/07/Binary-Numbers-0-1-Code-Matrix-Blue-Hack-Pattern-Abstract-WallpapersByte-com-1366x768.jpg);
+	height: 40px;
+}
+header #perfil {
+	max-width: 150px;
+	max-height: 200px;
+	position: absolute;
+	top: -40px;
+	left: 1000px;
+}
